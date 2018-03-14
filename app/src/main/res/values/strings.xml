@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Dictionary</string>
+    <string name="menu_drop">menu drop</string>
+    <string name="eng_to_ind">Inggris   -   Indonesia</string>
+    <string name="ind_to_eng">Indonesia     -   Inggris</string>
+    <string name="app_first_run">first_run</string>
+    <string name="swap">Tukar</string>
+    <string name="cari_kata">Cari Kata..</string>
+</resources>
